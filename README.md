@@ -1,6 +1,6 @@
 # Daily Journal Blog
 
-You can init npm and use(Create heroku project).
+You can init npm and use(Create heroku project).For publish post use /compose page.
 
 Get start for Heroku: https://devcenter.heroku.com/articles/getting-started-with-nodejs
 
